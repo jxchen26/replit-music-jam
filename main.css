@@ -2,6 +2,9 @@
     /* box-sizing: border-box; */
     max-width: 100%;
 }
+body{
+    color:white; /*white text*/
+}
 
 .container {
     max-width: 1500px;
@@ -16,7 +19,8 @@
 }
 
 .primary-rule {
-    border-color:black;
+    /* under line border color  */
+    border-color:white;
 }
 
 .game-column {
